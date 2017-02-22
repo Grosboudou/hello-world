@@ -1,2 +1,6 @@
 # hello-world
-premier test
+
+Hi People !
+
+Just getting started here
+
